@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1cbharadwaj43
 - 👀 I’m interested in molecular biology, structural biology.
-- 🌱 I’m currently learning Python, PHP, Rust.
+- 🌱 I’m currently learning Python and Go.
 - 💞️ I’m looking to collaborate on Bioinformatics projects, Automation of biological information processing.
 - 📫 How to reach me ...
 
